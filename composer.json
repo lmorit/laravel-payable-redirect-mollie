@@ -20,8 +20,8 @@
         }
     ],
     "require": {
-        "illuminate/database": "^5.4",
-        "illuminate/support": "^5.4",
+        "illuminate/database": "^6.12",
+        "illuminate/support": "^6.12",
         "guzzlehttp/guzzle": "^6.2",
         "mollie/mollie-api-php": "1.9.*",
         "php" : "~5.6|~7.0"
