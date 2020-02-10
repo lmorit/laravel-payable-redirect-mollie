@@ -1,5 +1,5 @@
 {
-    "name": "sander-van-hooft/laravel-payable-redirect-mollie",
+    "name": "lmorit/laravel-payable-redirect-mollie",
     "type": "library",
     "description": "Associate Mollie payments with Laravel Eloquent models",
     "keywords": [
